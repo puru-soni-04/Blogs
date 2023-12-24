@@ -1,2 +1,4 @@
 # Blogs
-Blog posts @ [blog.purusoni.com](https://blog.purusoni.com)
+Future blogs will be posted here.
+
+Main Website @ [purusoni.com](https://purusoni.com)
